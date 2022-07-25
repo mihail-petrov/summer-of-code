@@ -15,21 +15,11 @@
 - [CSS документация](https://developer.mozilla.org/en-US/docs/Web/CSS) - Текстов редактор за изпълнение на JavaScript код
 - [Learn css](https://web.dev/learn/css/) - Интересна инструкция за разучаване на CSS правила
 
-## Учебни материали и видео уроци - на български език
-- [Първи стъпки в HTML структурите](https://www.youtube.com/watch?v=MlVY8k73Z58&list=PLyZOguednhL4FknH2UrUyuK_O0B0xDAbA&index=2)
-- [Таблици и формуляри](https://www.youtube.com/watch?v=_dK8jhVmZR8&list=PLyZOguednhL4FknH2UrUyuK_O0B0xDAbA&index=3)
-- [Първи стъпки в стилизирането CSS](https://www.youtube.com/watch?v=6JiteBGwoGY&list=PLyZOguednhL4FknH2UrUyuK_O0B0xDAbA&index=4)
-- [Мистерията на BOX модела в CSS](https://www.youtube.com/watch?v=nSTDbaddSU8&list=PLyZOguednhL4FknH2UrUyuK_O0B0xDAbA&index=5)
-- [Абсолютно позициониране](https://www.youtube.com/watch?v=xpuq1hCWvVo&list=PLyZOguednhL4FknH2UrUyuK_O0B0xDAbA&index=6)
-- [Други модели за позициониране](https://www.youtube.com/watch?v=_wlYR7DX7ZE&list=PLyZOguednhL4FknH2UrUyuK_O0B0xDAbA&index=7)
-- [Други модели за позициониране](https://www.youtube.com/watch?v=C1tbjI9IXnk&list=PLyZOguednhL4FknH2UrUyuK_O0B0xDAbA&index=8)
-
 ## Учебни материали и видео уроци - на англииски език
 - [Обобщен курс за HTML](https://www.youtube.com/watch?v=qz0aGYrrlhU)
 - [Подробен курс за HTML и CSS](https://www.youtube.com/watch?v=mU6anWqZJcc)
 
 ## Полезни YT канали с видео уроци 
-- [{Mihail Petrov}](https://www.youtube.com/kepowob)
 - [Kevin Powell](https://www.youtube.com/kepowob)
 
 ## Упражнения 
